@@ -1,0 +1,5 @@
+[0311/133544.722:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0311/150028.307:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0311/150028.308:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0311/150032.577:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0311/150032.577:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.

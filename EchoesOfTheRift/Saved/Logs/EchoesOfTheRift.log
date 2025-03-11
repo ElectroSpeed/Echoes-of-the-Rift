@@ -1751,3 +1751,1116 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.11-11.30.08:130][ 38]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.03.11-11.30.08:271][ 46]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-ZRvtPkMVIU-niKpHLtQgMA-JShgr4t3gk6SZBMcpVz2HA]
 [2025.03.11-11.31.46:105][ 22]LogDerivedDataCache: C:/Users/angyo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.11-11.36.02:537][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 366.950928
+[2025.03.11-11.36.03:538][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-11.36.03:538][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 367.617310, Update Interval: 356.868805
+[2025.03.11-11.42.03:540][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 727.953247
+[2025.03.11-11.42.04:540][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-11.42.04:540][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 728.620361, Update Interval: 321.515564
+[2025.03.11-11.47.30:254][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1054.667847
+[2025.03.11-11.47.31:254][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-11.47.31:254][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1055.334229, Update Interval: 302.746674
+[2025.03.11-11.52.47:651][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1372.065552
+[2025.03.11-11.52.48:652][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-11.52.48:652][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1372.732544, Update Interval: 338.735321
+[2025.03.11-11.55.53:341][361]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.03.11-11.55.55:306][366]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53097'.
+[2025.03.11-11.55.55:315][366]Could not fetch the local adapter addresses
+[2025.03.11-11.55.55:315][366]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2025.03.11-11.55.55:341][367]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.03.11-11.55.56:012][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BE8BF0D0C-482E-859D-6EE0-68983F164A79%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 0 (Connection 0 seems to be dead)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 1 (Closing connection)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 3 (Send failure: Connection was reset)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.03.11-11.55.56:013][369]LogEOSSDK: Warning: LogHttp: 00000564D98A4E00: libcurl info message cache 6 (Closing connection)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 0 (Connection 0 seems to be dead)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 1 (Closing connection)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 2 (Recv failure: Connection was reset)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 3 (Send failure: Connection was reset)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.03.11-11.55.56:345][370]LogHttp: Warning: 00000564E0F6D900: libcurl info message cache 6 (Closing connection)
+[2025.03.11-11.55.56:345][371]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BE8BF0D0C-482E-859D-6EE0-68983F164A79%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.03.11-11.55.57:011][372]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.11-11.55.57:011][372]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.11-11.55.57:011][372]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.03.11-11.55.57:011][372]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: libcurl info message cache 1 (Closing connection)
+[2025.03.11-11.55.57:011][372]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-11.55.57:427][372]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60948'.
+[2025.03.11-11.55.57:432][372]Could not fetch the local adapter addresses
+[2025.03.11-11.55.57:432][372]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2025.03.11-11.55.58:113][376]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-11.55.58:447][376]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.11-11.55.58:447][376]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.11-11.55.58:447][376]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.03.11-11.55.58:447][376]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: libcurl info message cache 3 (Closing connection)
+[2025.03.11-11.55.58:447][377]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-11.55.59:448][379]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-11.55.59:782][381]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.11-11.55.59:782][381]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.11-11.55.59:782][381]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.03.11-11.55.59:782][381]LogEOSSDK: Warning: LogHttp: 00000564D98A5A00: libcurl info message cache 5 (Closing connection)
+[2025.03.11-11.55.59:782][381]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-11.55.59:782][381]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.03.11-11.58.48:815][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1733.228027
+[2025.03.11-11.58.49:815][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-11.58.49:815][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1733.894287, Update Interval: 318.836639
+[2025.03.11-12.04.41:871][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2086.284180
+[2025.03.11-12.04.42:872][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.04.42:872][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2086.951172, Update Interval: 334.640961
+[2025.03.11-12.10.57:607][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2462.016846
+[2025.03.11-12.10.58:603][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.10.58:603][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2462.684570, Update Interval: 331.670898
+[2025.03.11-12.17.15:338][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2839.752197
+[2025.03.11-12.17.16:339][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.17.16:341][210]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2840.419434, Update Interval: 325.893738
+[2025.03.11-12.23.20:400][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3204.812744
+[2025.03.11-12.23.21:399][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.23.21:399][305]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3205.479492, Update Interval: 352.043823
+[2025.03.11-12.27.23:125][301]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2025.03.11-12.27.25:070][405]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2025.03.11-12.30.10:363][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3614.779297
+[2025.03.11-12.30.11:364][877]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.30.11:364][877]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3615.447021, Update Interval: 357.200226
+[2025.03.11-12.31.46:106][555]LogDerivedDataCache: C:/Users/angyo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.11-12.32.03:810][368]LogSlate: Window 'Choose a location to import the content into' being destroyed
+[2025.03.11-12.33.44:030][494]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2025.03.11-12.33.44:181][494]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.03.11-12.33.44:199][494]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.03.11-12.33.49:925][811]LogSlate: Window 'Fab' being destroyed
+[2025.03.11-12.33.49:933][811]LogSlate: Window 'Fab' being destroyed
+[2025.03.11-12.33.49:933][811]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.11-12.33.49:933][811]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.03.11-12.34.20:458][132]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2025.03.11-12.34.22:183][235]LogSlate: Window 'Fab' being destroyed
+[2025.03.11-12.34.22:190][235]LogSlate: Window 'Fab' being destroyed
+[2025.03.11-12.34.22:190][235]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.03.11-12.34.22:190][235]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Fab/ThirdParty/index.html.
+[2025.03.11-12.34.28:133][559]LogSlate: Took 0.000520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.11-12.34.47:761][691]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack)
+[2025.03.11-12.34.47:769][691]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.03.11-12.34.47:775][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Maps/FirstPersonMap.umap" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Maps/FirstPersonMap.umap"
+[2025.03.11-12.34.47:789][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset"
+[2025.03.11-12.34.47:795][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+[2025.03.11-12.34.47:802][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+[2025.03.11-12.34.47:806][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+[2025.03.11-12.34.47:812][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
+[2025.03.11-12.34.47:817][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset"
+[2025.03.11-12.34.47:823][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/IMC_Default.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/IMC_Default.uasset"
+[2025.03.11-12.34.47:829][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/IMC_Weapons.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/IMC_Weapons.uasset"
+[2025.03.11-12.34.47:834][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/MobileControls.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/MobileControls.uasset"
+[2025.03.11-12.34.47:840][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/Actions/IA_Jump.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/Actions/IA_Jump.uasset"
+[2025.03.11-12.34.47:845][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/Actions/IA_Look.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/Actions/IA_Look.uasset"
+[2025.03.11-12.34.47:850][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/Actions/IA_Move.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/Actions/IA_Move.uasset"
+[2025.03.11-12.34.47:855][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Input/Actions/IA_Shoot.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Input/Actions/IA_Shoot.uasset"
+[2025.03.11-12.34.47:862][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/6/2R/TKXMGQLWGTB6FEH6EYY7NK.uasset"
+[2025.03.11-12.34.47:867][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset"
+[2025.03.11-12.34.47:875][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset"
+[2025.03.11-12.34.47:880][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/7/ZX/JUGNISA5MV8V8FE530PDPQ.uasset"
+[2025.03.11-12.34.47:886][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+[2025.03.11-12.34.47:891][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset"
+[2025.03.11-12.34.47:896][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/8/9P/KRNGZ1PU2Y3ACDDE2D2XC5.uasset"
+[2025.03.11-12.34.47:902][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset"
+[2025.03.11-12.34.47:908][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset"
+[2025.03.11-12.34.47:913][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V3/ICWLYCF62EJ63XTK5ZSZWV.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V3/ICWLYCF62EJ63XTK5ZSZWV.uasset"
+[2025.03.11-12.34.47:919][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CR/SRVPLA8UNZ8XIIP0E036DI.uasset"
+[2025.03.11-12.34.47:924][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/PH/WQFJJGR81PTWACYGUC1CP5.uasset"
+[2025.03.11-12.34.47:929][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset"
+[2025.03.11-12.34.47:935][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset"
+[2025.03.11-12.34.47:941][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset"
+[2025.03.11-12.34.47:946][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset"
+[2025.03.11-12.34.47:952][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset"
+[2025.03.11-12.34.47:957][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset"
+[2025.03.11-12.34.47:963][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset"
+[2025.03.11-12.34.47:968][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset"
+[2025.03.11-12.34.47:973][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset"
+[2025.03.11-12.34.47:980][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset"
+[2025.03.11-12.34.47:985][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.uasset"
+[2025.03.11-12.34.47:990][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset"
+[2025.03.11-12.34.47:996][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/A/JH/8TTAOMHN06NOHWGDJXKH1N.uasset"
+[2025.03.11-12.34.48:002][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset"
+[2025.03.11-12.34.48:007][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset"
+[2025.03.11-12.34.48:013][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/GO/I8WEFD3RY9V3NVQLSU6QM4.uasset"
+[2025.03.11-12.34.48:019][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/2M/ESWAVQBPX1XK2OH2YGVZCM.uasset"
+[2025.03.11-12.34.48:024][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset"
+[2025.03.11-12.34.48:029][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset"
+[2025.03.11-12.34.48:034][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset"
+[2025.03.11-12.34.48:039][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset"
+[2025.03.11-12.34.48:044][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset"
+[2025.03.11-12.34.48:049][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset"
+[2025.03.11-12.34.48:053][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset"
+[2025.03.11-12.34.48:061][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset"
+[2025.03.11-12.34.48:066][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset"
+[2025.03.11-12.34.48:072][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset"
+[2025.03.11-12.34.48:077][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset"
+[2025.03.11-12.34.48:082][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset"
+[2025.03.11-12.34.48:087][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset"
+[2025.03.11-12.34.48:092][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset"
+[2025.03.11-12.34.48:096][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset"
+[2025.03.11-12.34.48:102][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset"
+[2025.03.11-12.34.48:108][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset"
+[2025.03.11-12.34.48:114][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset"
+[2025.03.11-12.34.48:119][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/ZB/64YLC9YROSMO90SC5KR0PE.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/E/ZB/64YLC9YROSMO90SC5KR0PE.uasset"
+[2025.03.11-12.34.48:125][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0W/E1FKEGVKGOLM7HGLQPCIPO.uasset"
+[2025.03.11-12.34.48:130][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset"
+[2025.03.11-12.34.48:135][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/3/9Y/O1HBCAIOGYKE5W89K0N3EC.uasset"
+[2025.03.11-12.34.48:140][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset"
+[2025.03.11-12.34.48:145][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset"
+[2025.03.11-12.34.48:151][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset"
+[2025.03.11-12.34.48:158][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.uasset"
+[2025.03.11-12.34.48:163][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset"
+[2025.03.11-12.34.48:168][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset"
+[2025.03.11-12.34.48:173][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+[2025.03.11-12.34.48:178][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset"
+[2025.03.11-12.34.48:183][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset"
+[2025.03.11-12.34.48:188][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset"
+[2025.03.11-12.34.48:193][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.uasset"
+[2025.03.11-12.34.48:199][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset"
+[2025.03.11-12.34.48:204][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset"
+[2025.03.11-12.34.48:210][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset"
+[2025.03.11-12.34.48:215][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset"
+[2025.03.11-12.34.48:220][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset"
+[2025.03.11-12.34.48:225][691]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset" to "../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset"
+[2025.03.11-12.34.48:227][691]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.11-12.34.48:310][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.11-12.34.48:474][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/FirstPersonMap_BuiltData] ([1] browsable assets)...
+[2025.03.11-12.34.48:475][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/FirstPersonMap_BuiltData]
+[2025.03.11-12.34.48:807][691]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap_BuiltData
+[2025.03.11-12.34.48:808][691]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/FirstPersonMap_BuiltData78B169B84D1C929D1366B6BE4AE74988.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset'
+[2025.03.11-12.34.48:826][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 516.214 ms (total: 1.30 sec)
+[2025.03.11-12.34.49:520][691]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.11-12.34.49:520][691]LogContentValidation: Enabled validators:
+[2025.03.11-12.34.49:521][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.11-12.34.49:521][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.11-12.34.49:521][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.11-12.34.49:521][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.11-12.34.49:521][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.11-12.34.49:521][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.11-12.34.49:522][691]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap_BuiltData Validating asset
+[2025.03.11-12.34.58:737][232]LogSlate: Window 'Add Content to the Project' being destroyed
+[2025.03.11-12.35.02:586][460]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2025.03.11-12.35.12:923][ 67]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.03.11-12.35.12:936][ 68]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2025.03.11-12.35.12:992][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2025.03.11-12.35.13:017][ 70]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2025.03.11-12.36.03:035][ 82]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2025.03.11-12.36.03:060][ 82]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2025.03.11-12.36.03:066][ 82]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.11-12.36.03:248][ 82]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.11-12.36.10:836][420]LogSlate: Window 'SK_Mannequin_Arms' being destroyed
+[2025.03.11-12.36.10:912][420]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-12.36.10:912][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-12.36.11:313][420]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2025.03.11-12.37.02:939][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4027.366943
+[2025.03.11-12.37.03:115][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.37.03:115][787]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4027.531982, Update Interval: 310.336609
+[2025.03.11-12.38.43:203][680]LogSlate: Window 'FBX Export Options' being destroyed
+[2025.03.11-12.38.43:263][680]LogConsoleManager: Warning: Console variable 'r.MorphTarget.MaxBlendWeight' used in the render thread. Rendering artifacts could happen. Use ECVF_RenderThreadSafe or don't use in render thread.
+[2025.03.11-12.38.43:410][680]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2025.03.11-12.42.45:954][410]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4370.383301
+[2025.03.11-12.42.46:954][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.42.46:954][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4371.049805, Update Interval: 354.277771
+[2025.03.11-12.49.12:020][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4756.457031
+[2025.03.11-12.49.13:020][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.49.13:020][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4757.123535, Update Interval: 308.227173
+[2025.03.11-12.55.12:601][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5117.031250
+[2025.03.11-12.55.13:601][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-12.55.13:601][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5117.697754, Update Interval: 304.125488
+[2025.03.11-13.00.56:650][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5461.075684
+[2025.03.11-13.00.57:650][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.00.57:650][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5461.742188, Update Interval: 336.118652
+[2025.03.11-13.07.31:389][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5855.812012
+[2025.03.11-13.07.32:388][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.07.32:388][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5856.478027, Update Interval: 306.978363
+[2025.03.11-13.13.14:440][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6198.864258
+[2025.03.11-13.13.15:439][ 81]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.13.15:440][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6199.530762, Update Interval: 335.692017
+[2025.03.11-13.19.28:831][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6573.260254
+[2025.03.11-13.19.29:830][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.19.29:830][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6573.927734, Update Interval: 314.306458
+[2025.03.11-13.25.39:235][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6943.671875
+[2025.03.11-13.25.40:236][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.25.40:236][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6944.338867, Update Interval: 316.965240
+[2025.03.11-13.28.29:264][822]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 338...a2d
+[2025.03.11-13.28.29:264][822]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.81 RefreshExpires: 1.549e+07
+[2025.03.11-13.28.30:266][825]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 338...a2d Access[Expires: 2025.03.11-15.28.30 Remaining: 7200.06] Refresh[Expires: 2025-09-06T20:28:42.388Z Remaining: 15490812.39] State: Valid
+[2025.03.11-13.31.41:958][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7306.395020
+[2025.03.11-13.31.42:958][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.31.42:958][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7307.061523, Update Interval: 348.537231
+[2025.03.11-13.31.46:110][413]LogDerivedDataCache: C:/Users/angyo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.11-13.38.30:007][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7714.440430
+[2025.03.11-13.38.31:008][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.38.31:009][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7715.107910, Update Interval: 318.792694
+[2025.03.11-13.44.34:305][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8078.735352
+[2025.03.11-13.44.35:641][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.44.35:641][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8079.736328, Update Interval: 343.199554
+[2025.03.11-13.51.18:749][432]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8483.145508
+[2025.03.11-13.51.19:748][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.51.19:749][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8483.812500, Update Interval: 339.231537
+[2025.03.11-13.57.56:481][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8880.820312
+[2025.03.11-13.57.57:481][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-13.57.57:481][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8881.486328, Update Interval: 337.660461
+[2025.03.11-14.00.32:500][ 92]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 0 (Found bundle for host: 0x564dc880ab0 [serially])
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 7 (Closing connection)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 11 (Issue another request to this URL: 'https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73')
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 12 (Could not resolve host: api.epicgames.dev)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: 00000564DD441E00: libcurl info message cache 13 (Closing connection)
+[2025.03.11-14.00.32:501][ 93]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-14.00.33:831][ 96]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-14.00.34:830][ 99]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=98D41EF04F15E46F614C6894BC7B3B73
+[2025.03.11-14.04.25:859][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9270.141602
+[2025.03.11-14.04.26:858][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-14.04.26:859][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9270.808594, Update Interval: 331.967529
+[2025.03.11-14.10.52:717][432]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9656.923828
+[2025.03.11-14.10.53:717][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.11-14.10.53:717][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9657.590820, Update Interval: 307.243866
+[2025.03.11-14.11.57:393][664]LogSlate: Window 'Save Level As' being destroyed
+[2025.03.11-14.11.57:974][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.11-14.11.58:293][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2025.03.11-14.11.58:328][664]LogSavePackage: Moving output files for package: /Game/NewMap
+[2025.03.11-14.11.58:328][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/NewMap254C4F0B452F298CCA56CAB4D179B50F.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/NewMap.umap'
+[2025.03.11-14.11.58:411][664]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+/Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+/Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+/Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+/Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+/Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+/Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+/Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+/Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+/Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+/Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+/Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+/Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+/Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+/Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+/Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+/Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+/Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+/Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+/Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+/Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+/Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+/Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+/Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+/Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+/Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+/Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+/Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+/Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+/Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+/Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+/Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+/Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+/Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+/Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+/Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+/Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+/Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+/Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+/Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+/Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+/Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+/Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+/Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+/Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+/Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+/Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+/Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+/Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+/Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+/Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+/Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+/Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+/Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+/Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+/Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+/Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+/Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+/Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+/Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+/Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+/Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+/Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+/Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+/Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+/Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+/Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+/Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+/Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+/Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+/Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+/Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+/Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+/Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+/Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+/Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+/Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+/Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+/Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+/Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+/Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+/Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+/Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+/Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+/Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+/Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+/Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+/Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+/Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+/Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+/Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+/Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+/Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+/Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+/Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+/Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+/Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+/Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+/Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+/Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+/Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+/Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+/Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+/Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+/Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+/Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+/Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+/Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+/Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+/Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+/Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+/Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+/Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+/Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+/Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+/Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+/Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+/Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+/Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+/Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+/Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+/Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+/Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+/Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+/Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+/Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+/Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+/Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+/Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+/Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+/Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+/Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+/Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+/Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+/Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+/Game/__ExternalObjects__/NewMap/3/FA/H5YXUWI3KHBYY2K5YUCKTO
+/Game/__ExternalObjects__/NewMap/A/IC/9I8GHMA4VIJH3LO78GV7I3
+/Game/__ExternalObjects__/NewMap/8/IQ/LJHS27GMMDLPVZ6SPYDMEA
+/Game/__ExternalObjects__/NewMap/7/0C/FL30LU7CB1YO6BCF79UH3R
+/Game/__ExternalObjects__/NewMap/5/N1/J0GK1XWL3ZQMJDFH6EQTKN
+/Game/__ExternalObjects__/NewMap/1/UB/KACKN2GJ794UX1TIY9BZVT
+/Game/__ExternalObjects__/NewMap/3/S0/8GP5BBQC0XOKKK0CG3UY77
+/Game/__ExternalObjects__/NewMap/2/LK/M1HV030KG53RUK3UU8QYVW
+/Game/__ExternalObjects__/NewMap/4/PO/MH3XHQJ0SHJI4XQC3M3CSC
+/Game/__ExternalObjects__/NewMap/1/00/7QPX23LEW8G2N0163LEICS
+/Game/__ExternalObjects__/NewMap/2/O0/7VQKSX0YRHGR9TCKSGTBSI
+/Game/__ExternalObjects__/NewMap/9/SO/PMESCTKJGU9JZ7ISDKSMHM
+/Game/__ExternalObjects__/NewMap/C/7X/D29T6EZSZBWOO3G8EEX2R4
+/Game/__ExternalObjects__/NewMap/2/J8/XATVZX7Y2DHDKATIKY1TWQ
+/Game/__ExternalObjects__/NewMap/9/YT/3N33XJ5KXWWYR9R1YOGGSX
+/Game/__ExternalObjects__/NewMap/B/ZC/IKMY6IVT54XAND4Z0GB9MT
+/Game/__ExternalObjects__/NewMap/C/US/0A6P08LJE544W6QB532D9I
+/Game/__ExternalObjects__/NewMap/3/1V/9EF2IJHV1F4K4N6K5BS9VV
+/Game/__ExternalObjects__/NewMap/B/5X/SQ18R2HL9O10WCZ0TC3MVC
+/Game/__ExternalObjects__/NewMap/E/S2/9HBE1YFT0LLDMNCPB4YF1D
+/Game/__ExternalObjects__/NewMap/A/HJ/PM97GVTSWQMHPCSROZWFCB
+/Game/__ExternalObjects__/NewMap/4/5W/J3ESKC6NHMLVNYED5N7IZ8
+/Game/__ExternalObjects__/NewMap/B/T2/9Z15Q7LPNOX5GN5YSTZG69
+/Game/__ExternalObjects__/NewMap/A/QK/K25KCRPKNXMEIWPO81J7G1
+/Game/__ExternalObjects__/NewMap/B/EL/N8XE21FIZDLL5W2X0D8I7V
+/Game/__ExternalObjects__/NewMap/7/0A/MWC7Q121XE2LCJDAD5OFHX
+/Game/__ExternalObjects__/NewMap/D/DU/ZG3UIRMMAVPDG1QC8BXODA
+/Game/__ExternalObjects__/NewMap/B/O7/G422U5A6U8X3DOD8AHPD8O
+/Game/__ExternalObjects__/NewMap/4/TE/EL2ZWW6C6L9B5IAXUXMTOT
+/Game/__ExternalObjects__/NewMap/A/6K/TQYDCEYIZZFIVW6X7GQC8O
+/Game/__ExternalObjects__/NewMap/B/U1/AEGX9QJH7U1ETHUYW5S09D
+/Game/__ExternalObjects__/NewMap/B/7J/JL00TR50YFMOSJNM81CU7N
+/Game/__ExternalObjects__/NewMap/7/9D/WN2YFJHDCUR7DV3063SER5
+/Game/__ExternalObjects__/NewMap/A/B3/BHVMLEJTMAC6Z659UH6JMA
+/Game/__ExternalObjects__/NewMap/E/2G/ZY16FHHV1EMT03NVFOLYL3
+/Game/__ExternalObjects__/NewMap/1/TM/00KOVPGMZVSCX5D2KLX1ZW
+/Game/__ExternalObjects__/NewMap/2/6I/Q8DKMKMVEMOS29GBZ6YFFG
+/Game/__ExternalObjects__/NewMap/E/IM/MLEVQ2OVYLCEVUQDGNM7ZI
+/Game/__ExternalObjects__/NewMap/4/4O/YYM4YEPPJN7IG697RZ2VL9
+/Game/__ExternalObjects__/NewMap/9/JH/4NGD98BVXVFXX9SNN0043I
+/Game/__ExternalObjects__/NewMap/D/6Q/X7CK3GOWPMHEM70RKYFXTR
+/Game/__ExternalObjects__/NewMap/D/0P/75FFWUSE5KWTDGVGDXRIC7
+/Game/__ExternalObjects__/NewMap/4/WN/44PFZXXL8D5JRTFNEMC2MM
+/Game/__ExternalObjects__/NewMap/8/2N/6WSQGH1OT7U59IAXGK01Q0
+/Game/__ExternalObjects__/NewMap/7/7U/8TUKSPR51SZ4JN56ZKSWFT
+/Game/__ExternalObjects__/NewMap/7/U2/Y11O9ZSOK0OQF27IVX4EJI
+/Game/__ExternalObjects__/NewMap/0/M0/9L83XTAA81EH9LMSMO5XTD
+/Game/__ExternalObjects__/NewMap/6/SN/J644N0NU7ZFNZX4R7ZEXWQ
+/Game/__ExternalObjects__/NewMap/3/70/0H7OSAFUA9MP2QUOTQL3IT
+/Game/__ExternalObjects__/NewMap/F/2V/2V07VYNUUV2C8BGSBUYUTE
+/Game/__ExternalObjects__/NewMap/8/LO/OSFNWUWDPARLDA6R981D73
+/Game/__ExternalObjects__/NewMap/8/3A/R7WSYQTJP3ZGE4WXRUKS6X
+/Game/__ExternalObjects__/NewMap/3/JF/Y49XGB3ME5DV20OFTAG04I
+/Game/__ExternalObjects__/NewMap/7/2X/Z67Y7J4D08N5F5O6DUARD9
+/Game/__ExternalObjects__/NewMap/C/EW/1RPGO6BMI9G0DXUMMA8V5M
+/Game/__ExternalObjects__/NewMap/9/V8/XQ26L0OPQ4YZ045X8OGO6A
+/Game/__ExternalObjects__/NewMap/3/MB/9WEP6CI5QACHIDG9DVFG8H
+/Game/__ExternalObjects__/NewMap/8/WC/3EUGLM5X0WQP140TR2XUZ5
+/Game/__ExternalObjects__/NewMap/E/F6/JG25SBQB10UF06B42MW0LD
+/Game/__ExternalObjects__/NewMap/C/MD/9SM1FCHNTQHPSZGAQWU0AP
+/Game/__ExternalObjects__/NewMap/A/YO/YAHS9QFCC8F6XCJ4MEM39T
+/Game/__ExternalObjects__/NewMap/8/B0/EHXN6K0Q3DFD4WCMQO1FML
+/Game/__ExternalObjects__/NewMap/4/IT/AQSCAL63BGMZH4O4QG5XI8
+/Game/__ExternalObjects__/NewMap/3/4F/XH2PYMTEUERSTG4ESF5WE8
+/Game/__ExternalObjects__/NewMap/0/4N/3G67I0XRI65NRZWA7TM4DD
+/Game/__ExternalObjects__/NewMap/A/M4/91BEY6DOW3WYE7QH7ZRKHZ
+/Game/__ExternalObjects__/NewMap/6/W0/KLNYZVYO5K3SIUPT16PWV5
+/Game/__ExternalObjects__/NewMap/0/IZ/QTS31OMTEQXGR9ZXO63RBB
+/Game/__ExternalObjects__/NewMap/C/M3/GIHE8EIZGVL0EQWVRI42JS
+/Game/__ExternalObjects__/NewMap/4/K3/7VSIDJX2U6T4NDE18OPKYS
+/Game/__ExternalObjects__/NewMap/6/MZ/DD2Q012Z0KD8P7TLEVJ6PA
+/Game/__ExternalObjects__/NewMap/0/XE/L4GVPQKNX5VCLXDLOAG259
+/Game/__ExternalObjects__/NewMap/0/LO/SCDB8BC4TZ57OKI7ATCU6M
+/Game/__ExternalObjects__/NewMap/1/FB/KZCTNNCLYBI457X1FUPWXJ
+/Game/__ExternalObjects__/NewMap/D/82/IQ056GD5MAMG4CLXVQV3WG
+/Game/__ExternalObjects__/NewMap/E/KM/5BIKSA12TLWHK1ROBZT344
+/Game/__ExternalObjects__/NewMap/3/WD/BKMFNCBBWJU2CL4K5IFEF9
+/Game/__ExternalObjects__/NewMap/4/3D/69VOINQ287IMYI59RSRYU1
+/Game/__ExternalObjects__/NewMap/3/CH/HSXBFZYBAVXWYH7ZE2XXF9
+/Game/__ExternalObjects__/NewMap/3/T6/P929GWJLPNLBINLGJEOJN8
+/Game/__ExternalObjects__/NewMap/3/D4/NVJTNS8BSI2ZPGGADY4SWN
+/Game/__ExternalObjects__/NewMap/A/WX/5K3L40478ECN0B7NH8M3O2
+/Game/__ExternalObjects__/NewMap/C/AX/MM1I6FSFSAQE2GK9LDAD8Y
+/Game/__ExternalObjects__/NewMap/E/48/4WA9YGVL63SKCNN28SOO60
+/Game/__ExternalObjects__/NewMap/7/VE/LQC7YM79KCTHX16Y5Z9EH6
+/Game/__ExternalObjects__/NewMap/B/KU/8P89M61WABBVJRFS14QHSS
+/Game/__ExternalObjects__/NewMap/4/9N/ZF39R0VBDY4M637NGIOBJY
+/Game/__ExternalObjects__/NewMap/A/OQ/APCQI51P03TR3BPNQDO285
+/Game/__ExternalObjects__/NewMap/4/DJ/17QX3HE9FT7H7IG2R8Z3HY
+/Game/__ExternalObjects__/NewMap/7/BT/X8P60056MY456K40SPBMT6
+/Game/__ExternalObjects__/NewMap/3/82/KVL742ORJ6SAWM95KR9QD5
+/Game/__ExternalObjects__/NewMap/A/LU/RWLHVW5MPPQHSY03NUBK4N
+/Game/__ExternalObjects__/NewMap/F/4B/H5ZWWDRQP02S4E1E7LW2C9
+/Game/__ExternalObjects__/NewMap/7/TL/JL79S214NTKPE5EI7RU0UJ
+/Game/__ExternalObjects__/NewMap/E/WM/RXHKFP0JAOTIRICDS317X2
+/Game/__ExternalObjects__/NewMap/5/I9/JO8OA7A983F5Q1YSLGSZSI
+/Game/__ExternalObjects__/NewMap/4/XI/EJ3MLIVJKNR4WGUFODVD96
+/Game/__ExternalObjects__/NewMap/9/M2/SQ4HFCFH7C7F3DTQ4NL09A
+/Game/__ExternalObjects__/NewMap/6/2C/3LDQZ09S8M1MRHYWK9XJZP
+/Game/__ExternalObjects__/NewMap/C/ZS/DBY0957TRHBAQQ9YTKNICY
+/Game/__ExternalObjects__/NewMap/C/MM/YH8U59M7JXXRJ2B9OO0YL4
+/Game/__ExternalObjects__/NewMap/6/UU/7UNE56ZF8DDL0IYB70CJGV
+/Game/__ExternalObjects__/NewMap/7/70/RRBKZIXSM30AGZSKORSTEK
+/Game/__ExternalObjects__/NewMap/8/6R/HC19ZMFTHSGZ215K0C3HDH
+/Game/__ExternalObjects__/NewMap/4/KT/1385QUSS56SZ3BGCNCQRDL
+/Game/__ExternalObjects__/NewMap/0/3K/1V4RLGPX0RW1XHT1DDGWQE
+/Game/__ExternalObjects__/NewMap/4/Z8/3VK7OSHONGQGZTY2E3L4WV
+/Game/__ExternalObjects__/NewMap/8/TH/AO753N7GS0B0Z1FU8Q3R3E
+/Game/__ExternalObjects__/NewMap/7/Y3/GA6W575GEMXBQXT50JNZV6
+/Game/__ExternalObjects__/NewMap/4/ED/VH64SI1UCA6BDIZMQ33AGT
+/Game/__ExternalObjects__/NewMap/4/P0/UYTUZ6I767O1PQKBKDJ9D1
+/Game/__ExternalObjects__/NewMap/8/QL/C8A2FO4GGXXBL733PX6IRG
+/Game/__ExternalObjects__/NewMap/E/SL/VLIO28PZ90ZLYBLM20DRED
+/Game/__ExternalObjects__/NewMap/1/P6/B2FS2UWBE3PJW9QFD7IT6Y
+/Game/__ExternalObjects__/NewMap/B/HY/67PWNLFRT81978EILZYLPQ
+/Game/__ExternalObjects__/NewMap/1/WW/XRCO9FW3CLZPTC6QNPKPV2
+/Game/__ExternalObjects__/NewMap/D/M7/HSRFK0QR4SHG9LHINKVQJG
+/Game/__ExternalObjects__/NewMap/B/98/9YGH1V5XZKKD10P7IWW5NT
+/Game/__ExternalObjects__/NewMap/B/U2/NGUPBK44UIQHA57HGN05HX
+/Game/__ExternalObjects__/NewMap/D/38/ZY6G8FR2U6TTJO5BZO7S46
+/Game/__ExternalObjects__/NewMap/9/23/OWXRDCEV50UADS00PBFXNS
+/Game/__ExternalObjects__/NewMap/6/2M/CZ74QHRTE7SULFX9INLOMX
+/Game/__ExternalObjects__/NewMap/A/9H/0PGKA18TIQ3M9CCXA1ST2T
+/Game/__ExternalObjects__/NewMap/4/Q8/PGMLTXRPBUSIYXUB5VKCV5
+/Game/__ExternalObjects__/NewMap/0/NG/766RFSMFU6STHCZLKCTH01
+/Game/__ExternalObjects__/NewMap/B/ZI/4FFD55Y09F9KOHM5LXDZ48
+/Game/__ExternalObjects__/NewMap/8/CO/PWH7IJNMW0PY016353XZDX
+/Game/__ExternalObjects__/NewMap/A/6W/G524HOFNPQE2JLOKKIV4I9
+/Game/__ExternalObjects__/NewMap/9/99/NZQTKM8CTLT95XA1SWILCD
+/Game/__ExternalObjects__/NewMap/8/3O/3EW65HEOI7W3UQJY4UXMAV
+/Game/__ExternalObjects__/NewMap/B/PV/PC46FRYW1976BOWZD2536G
+/Game/__ExternalObjects__/NewMap/9/QQ/240BBM8D0NG1FU44RZOQUZ
+/Game/__ExternalObjects__/NewMap/4/4J/0CWLWNQEZW9S4UB9ZLSGXY
+/Game/__ExternalObjects__/NewMap/F/3Z/Y0E7QIFXYGWTW4TKGRZOFZ
+/Game/__ExternalObjects__/NewMap/0/9P/FLPBKNVZGWWY76GF6TR2NZ
+/Game/__ExternalObjects__/NewMap/A/3Y/12MDSB7R6I8EHYWTIIBYEO
+/Game/__ExternalObjects__/NewMap/2/0F/OYW726CSKJQ4K6JDIX34QM
+/Game/__ExternalObjects__/NewMap/4/R6/RNF3834HKKZIQGSZ53529D
+[2025.03.11-14.11.58:413][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.11-14.11.58:447][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.11-14.11.58:460][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.11-14.11.58:470][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.11-14.11.58:472][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewMap_HLOD0_Instancing] ([1] browsable assets)...
+[2025.03.11-14.11.58:472][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMap_HLOD0_Instancing]
+[2025.03.11-14.11.58:472][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_HLOD0_Instancing" FILE="../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/NewMap_HLOD0_Instancing.uasset" SILENT=true
+[2025.03.11-14.11.58:473][664]LogSavePackage: Moving output files for package: /Game/NewMap_HLOD0_Instancing
+[2025.03.11-14.11.58:473][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/NewMap_HLOD0_Instancing8A39E5DD4C36AF814B472CAD2B7EF9CC.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/NewMap_HLOD0_Instancing.uasset'
+[2025.03.11-14.11.58:481][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+[2025.03.11-14.11.58:481][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/QO5TQORWCXORVK1051S8GHD507F1C1421031FC94F1F987408FEFE3.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset'
+[2025.03.11-14.11.58:484][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9] ([1] browsable assets)...
+[2025.03.11-14.11.58:484][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9]
+[2025.03.11-14.11.58:485][664]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+[2025.03.11-14.11.58:485][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/3FHCA0FW5IIFSQ2O54UZA9F468F81A4B72192B8F200DB3907E3CA1.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset'
+[2025.03.11-14.11.58:488][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N] ([1] browsable assets)...
+[2025.03.11-14.11.58:488][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N]
+[2025.03.11-14.11.58:489][664]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+[2025.03.11-14.11.58:489][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/99MZXH85XVTY7NU0J1OJ8N98F63B6C42A22AD2F973F8806F4C7BAC.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset'
+[2025.03.11-14.11.58:490][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI] ([1] browsable assets)...
+[2025.03.11-14.11.58:490][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI]
+[2025.03.11-14.11.58:491][664]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+[2025.03.11-14.11.58:491][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/DIR8ZHVIQ96U3XBY7PSRNI3F44221945350A44E8B5C793949E47F0.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI.uasset'
+[2025.03.11-14.11.58:492][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G] ([1] browsable assets)...
+[2025.03.11-14.11.58:492][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G]
+[2025.03.11-14.11.58:493][664]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+[2025.03.11-14.11.58:493][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/WYRPDUCDC4MIWMIRBPXU8G09C8A769430C0839DDDF05AE64F12421.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G.uasset'
+[2025.03.11-14.11.58:494][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ] ([1] browsable assets)...
+[2025.03.11-14.11.58:494][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ]
+[2025.03.11-14.11.58:495][664]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+[2025.03.11-14.11.58:495][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/PV6HCV4P0GX9P77B63TXTQ2A1142ED4614840DCA2BFA96336D8EA6.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ.uasset'
+[2025.03.11-14.11.58:496][664]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98] ([1] browsable assets)...
+[2025.03.11-14.11.58:496][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98]
+[2025.03.11-14.11.58:496][664]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+[2025.03.11-14.11.58:496][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/KV5NVW6RVGCY40C13H5F98F7DE052243E0014B6C9ABD99DD56B1CF.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98.uasset'
+[2025.03.11-14.11.58:573][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+[2025.03.11-14.11.58:573][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/K9ZUEA69K5KJSH5045MJR1A0CF48F640A11BE3D389779CE1D3E8B3.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1.uasset'
+[2025.03.11-14.11.58:578][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+[2025.03.11-14.11.58:578][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/33JI6228IHMKP046YQI3NMC80E733B452DA89811E5CE83A884594D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM.uasset'
+[2025.03.11-14.11.58:583][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2025.03.11-14.11.58:583][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/D90LOZ6OX06T5XEND5R79L7A59A27F43DF3DC597709A8E780B5C78.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset'
+[2025.03.11-14.11.58:587][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+[2025.03.11-14.11.58:587][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/SX9JKDV4UA15T0E1TTFAVZ49A38BEC4B8FFF7C224AB4B68499055D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ.uasset'
+[2025.03.11-14.11.58:591][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+[2025.03.11-14.11.58:591][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/UWT2EIZPYQICCJ0JNTZ85V19EB06FC48E5032E8D6EB08C169C96FE.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V.uasset'
+[2025.03.11-14.11.58:595][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+[2025.03.11-14.11.58:595][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/ZZZUE6B734TVUOS09XOW8Y2DFFF278450A9E46B8E30BB7F5AC63F3.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y.uasset'
+[2025.03.11-14.11.58:599][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+[2025.03.11-14.11.58:599][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/QNW4NKCF3JB30PDQLYNK04A1EC7ECE4C8E04E10224608DDA5DD479.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04.uasset'
+[2025.03.11-14.11.58:602][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+[2025.03.11-14.11.58:602][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/S0M3NFTEJWDWQXLH8WL3P01CEA12C4405AC8FFDD86F994524A9F72.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0.uasset'
+[2025.03.11-14.11.58:608][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2025.03.11-14.11.58:608][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/H67VGU7BHNHPWWQEMQJ41J34CB1F3E43CECA6902AB0086D0555D86.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2025.03.11-14.11.58:631][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2025.03.11-14.11.58:631][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/STFWH78SWHO1BT3JB2S9GT6BCD08A54A843496E30AB680972212B0.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2025.03.11-14.11.58:646][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2025.03.11-14.11.58:646][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/N5WZ7N63Q2DBG05ZT1Y94VA140518647F45CBC297F1EAC2F4E9D9D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V.uasset'
+[2025.03.11-14.11.58:662][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2025.03.11-14.11.58:662][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/QCU8K2REN785K74C0JAHL87226807143CD882FAC9A60B8F3E8B2D8.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8.uasset'
+[2025.03.11-14.11.58:678][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2025.03.11-14.11.58:678][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/V9CAJRQOOCARULA8KSKFKF3373BD454A27526AAD1472BF6549F94F.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2025.03.11-14.11.58:692][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2025.03.11-14.11.58:692][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/PZ5XNZU157V0GDAJAXC2DQ8D10299F4A071EBB013E4388FA88D880.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ.uasset'
+[2025.03.11-14.11.58:708][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2025.03.11-14.11.58:708][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/QBOG0EUDUJ3I7CKDLU6SM591B4B9B84782EB7C785C6992910CF3B8.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2025.03.11-14.11.58:721][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2025.03.11-14.11.58:721][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/K5XHNT2TJPQ6HM9TN0HG8RC1D370324510661FC981E0A3A495C582.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2025.03.11-14.11.58:738][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2025.03.11-14.11.58:738][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/Y8EZ2AXLMEN39WTAPXB6VM8A9A75D744BA164651C5F3BCF9EA7CF5.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2025.03.11-14.11.58:758][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2025.03.11-14.11.58:759][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/RPVI13LNVTY93V3EQ1Y4FV0085D3334060D119EE3432B3CD8B98EE.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2025.03.11-14.11.58:776][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2025.03.11-14.11.58:776][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/UDWQC9DWW7DL22CPJ4RVSI2FBBB3CE4F3297CD03BBF78F2D391D26.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2025.03.11-14.11.58:793][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2025.03.11-14.11.58:793][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/EE3LUXOWULAYGXN1IPS4S2016504F84E096DBE041876AF6D335471.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2025.03.11-14.11.58:810][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2025.03.11-14.11.58:810][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/Y3GF0HWTXA7DHH1FL3IF9R876E51884D82BD4537F44AAD2A9AC3CA.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2025.03.11-14.11.58:827][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2025.03.11-14.11.58:827][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/XX81YC0HUFD6L3IX7RWMS0348BDE104B6F07BB8E86729B03881F28.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2025.03.11-14.11.58:846][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2025.03.11-14.11.58:846][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/5E0J4DYSYB0DUPM0H3UFMJ52819AD04316C9860516F6802C3CE6A3.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2025.03.11-14.11.58:863][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2025.03.11-14.11.58:864][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/I3YAKOIE9OZW8RGU76MLDU89CA03794DFA16FF42F9EA8AA9A2A27A.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2025.03.11-14.11.58:880][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2025.03.11-14.11.58:880][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/8TXEZSVIN8XJXFAAPYJ9PFF9D29CF4409BE84D08DBB7881A4E509B.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2025.03.11-14.11.58:897][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2025.03.11-14.11.58:897][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/99H285CLZ96HCTKT3S7S79C4EF38E948F79986E57F969B2D59E602.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2025.03.11-14.11.58:914][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2025.03.11-14.11.58:914][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/J8JQXJ67F9KX47CCDA8ZMFF5E44D47448403860ED216B60630E99D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2025.03.11-14.11.58:931][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2025.03.11-14.11.58:931][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/7UWDO77CF7TNVQ9BB75XCFA64B768E43E53D0FC5CD8584B0D41359.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2025.03.11-14.11.58:948][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2025.03.11-14.11.58:948][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/TIHXLB5639NV4RM260YDTWD00720EC452D27EDE376AD9A0D27AF24.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2025.03.11-14.11.58:964][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2025.03.11-14.11.58:964][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/GV76BBB2V0EFHV7ELK9A0Y12BD61A6471A6489F2AC25B1911BDF86.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2025.03.11-14.11.58:980][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2025.03.11-14.11.58:980][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/CHPLQ79FFGJWC3VACZJA900A6B3DCE4B2CFA5AF505DF99E73EF2EB.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2025.03.11-14.11.58:998][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2025.03.11-14.11.58:998][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/39OTWHVDSI751PAH6731ID5A5D6CEA41499CC0DB3421B9B0241A69.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2025.03.11-14.11.59:014][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2025.03.11-14.11.59:014][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/3B5158OKASMIKGFDZC9KRFFF0E2EE547FC950649C3BB97AE7DDA39.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2025.03.11-14.11.59:030][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2025.03.11-14.11.59:030][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/X4NPSX8ZUWI1DPH52YEUUP3678AC1C46BB88AB3F4D4A84B6FE3419.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2025.03.11-14.11.59:047][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2025.03.11-14.11.59:047][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/MRZ7RQN5KANFM03I7EKRCC2662D51C4FA57BB6A5244F94709D3D5C.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2025.03.11-14.11.59:065][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2025.03.11-14.11.59:065][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/XQN8LZWIDWMWIMOBUZOJDH3353A0714D042967350A52AD342DF4E0.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2025.03.11-14.11.59:082][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2025.03.11-14.11.59:082][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/ELJ3HI994B42IQIWQEZNGD229F62544B491264E721D9B4C8AA6F21.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2025.03.11-14.11.59:098][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2025.03.11-14.11.59:098][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/JJD8SHJCMNFNMC34COATAM3D421FC543C2FDB1132981BE98747DD8.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2025.03.11-14.11.59:113][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2025.03.11-14.11.59:113][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/HYGURXU7M62N8WAUIXLWPQC174CECE42A8F077FDB7339976FABC69.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2025.03.11-14.11.59:130][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2025.03.11-14.11.59:130][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/FH4UWQ2MQA5KPUZVXS23LJ5730949449FA9BB84114E29F6439EC12.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2025.03.11-14.11.59:147][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2025.03.11-14.11.59:147][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/PLU0RE738EMG7CF7VC8D9SB681F8F64850E84986D54092C0ACA287.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2025.03.11-14.11.59:164][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2025.03.11-14.11.59:164][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/KXAGD7OP6IEQ3K8LWI86RL85E0FE034B167D4655DCBCA33C46798A.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2025.03.11-14.11.59:180][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2025.03.11-14.11.59:180][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/9034HM4Y3YU11DE4XNPRA909D8539945678621D37B82A2E9A3E6A7.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2025.03.11-14.11.59:197][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2025.03.11-14.11.59:197][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/OHRQN7RF5THM8Z6O6262I4CCE53D304DF0F74DBE14E1890F23DC8D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2025.03.11-14.11.59:214][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2025.03.11-14.11.59:215][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/TAVO56E9B1HVH1F45RLBIA2030780149253D2F1B2B30AF7130468D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2025.03.11-14.11.59:231][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2025.03.11-14.11.59:231][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/4ND4ZK6J06I5L4DPSTPYW9C0D8DDE148DFE07AB7A64ABC4367FE35.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2025.03.11-14.11.59:248][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2025.03.11-14.11.59:248][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/VXH4MI02ODW8DKNLA2MOK30862DADD42D56625DE47379344B78241.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2025.03.11-14.11.59:264][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2025.03.11-14.11.59:266][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/0XXSVY1Y0D2HIHA43BVMPHDE6D07B04B5D25D8E635D88A1CAC2AF7.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2025.03.11-14.11.59:280][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2025.03.11-14.11.59:280][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/JV2GOVBPB8GZ9MQUICHC9S0F5E4F9D49E125930156B883B7990C94.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2025.03.11-14.11.59:295][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2025.03.11-14.11.59:295][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/CK3DVSRDA9WTQU5TC2XO2V892EF71149E16D9E4413E3BA00E412AE.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2025.03.11-14.11.59:311][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2025.03.11-14.11.59:311][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/NURB0U7U9ZV4H4LX7FT8T29ACCA3F14F78C5654C245CA3D11672E7.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2025.03.11-14.11.59:327][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2025.03.11-14.11.59:327][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/B3NPG0KFON6BVW5ECZJSUI4C32DD8A4EDD1C0F1A8331BA297DB25F.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2025.03.11-14.11.59:343][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2025.03.11-14.11.59:343][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/BULBFMUS7ADZJMH54QGDK9F559A0CC4D3C2015F577438745B06B43.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2025.03.11-14.11.59:356][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2025.03.11-14.11.59:356][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/1HONC7HVU91I909A4N80W2737E42414253C2133DFB99BF64A1F3BA.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2025.03.11-14.11.59:372][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2025.03.11-14.11.59:372][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/6S23OQXPMF10HYXLB9OEIPD34CAD74410262B8A848E9ADDCF0306D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2025.03.11-14.11.59:387][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2025.03.11-14.11.59:387][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/L8FAOYPHJNQSTCW3XMMSJT4250A97145C2FFE411AA2C8F83E80AD7.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2025.03.11-14.11.59:403][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2025.03.11-14.11.59:403][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/29WASR1BMNC6IXHW8I5KZ8EE3567344F88B3B886BFAEB0C5105E57.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2025.03.11-14.11.59:419][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2025.03.11-14.11.59:419][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/T187Z8E2C6CPJLXCH06KRJ1F29880C4A2C80EC86923C90888263EC.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2025.03.11-14.11.59:436][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2025.03.11-14.11.59:436][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/85792LT2Y93I704I1JYP1KB28BD8D342AA68ED2F3F588F7BC27AFD.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2025.03.11-14.11.59:451][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2025.03.11-14.11.59:451][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/Y23P0KHN1XII71UX7D1H8QE957A5E44EEEA845E5F883AAE5833BDB.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2025.03.11-14.11.59:466][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2025.03.11-14.11.59:466][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/E7UFHHQZ7B8TLAL6Y74JRC9D862AD0457F4D0F50C656B1DC04441A.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2025.03.11-14.11.59:481][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2025.03.11-14.11.59:481][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/FL16ITLR22643N9B35THAR5101D5964DE2E65B4F6CD08E8B2D3B3C.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2025.03.11-14.11.59:497][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2025.03.11-14.11.59:497][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/90QVEWVNXY6N07CS9SHQPM76314B1A4364BD8258655080A429EE29.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2025.03.11-14.11.59:512][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2025.03.11-14.11.59:512][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/YMDE4WERKLNXIT8TVTH5OW43F5B385417A25F0435906B47CD33F80.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2025.03.11-14.11.59:528][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2025.03.11-14.11.59:528][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/NERX0MWYRICL228ZB8J0QWB462B977446D3AEC12F7BEB2519A8B69.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2025.03.11-14.11.59:544][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2025.03.11-14.11.59:544][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/VZU403KFJ6UJQ2M3VY67365D441C6044C333533D1CB3AB10B2F076.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2025.03.11-14.11.59:559][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2025.03.11-14.11.59:559][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/JANFZ62JMG0U1Z3UNCQVKV4233EFC6425E71F9511CB2BD884E75F7.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2025.03.11-14.11.59:575][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2025.03.11-14.11.59:575][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/SPYD0PSGU4M3NK7DI5RDRM65EFEC484C8B354D276B34B5B681FEFC.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2025.03.11-14.11.59:591][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2025.03.11-14.11.59:591][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/M58JIDBQC2JEOWYFQ17JSY612C87F94726418385FD14B93004204C.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2025.03.11-14.11.59:606][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2025.03.11-14.11.59:606][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/4G06FUR85LXRX1UCMOAFBE3A2C193E4CE01BAE66AC19B8AF170AC9.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2025.03.11-14.11.59:621][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2025.03.11-14.11.59:621][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/4NBZKC5PVQODH9SVSYPY1E02F0E7F14E3878FB5B76F68A76F41D76.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2025.03.11-14.11.59:637][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2025.03.11-14.11.59:637][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/APFM7ONOEVP1TBHZZ5VTDA1611937C4D87D982FE86A5B315548AB4.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2025.03.11-14.11.59:653][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2025.03.11-14.11.59:653][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/UYA7A5HTQTJSRWJ4MK2WT6122E0F97435EBD524DFBD1A239BA5C46.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2025.03.11-14.11.59:670][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+[2025.03.11-14.11.59:670][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/NYVVLNPBTKRYOWG6SJON5Q9F06CAE140CCEFDF43DA6DB095AA5232.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q.uasset'
+[2025.03.11-14.11.59:676][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+[2025.03.11-14.11.59:676][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/CYNP3142GDJBY11M9RMRBC447C7B6A4EDA8A5ADE8910ADF2B0433E.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC.uasset'
+[2025.03.11-14.11.59:682][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+[2025.03.11-14.11.59:683][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/QGHAKQ11SESEDFOLUDKLRGFECD797D4AFB759596DD1E9DAD3ED4A5.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG.uasset'
+[2025.03.11-14.11.59:689][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+[2025.03.11-14.11.59:689][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/2K800X1I75LAHZV8NALO1GC269536F4E1F735839871DBE2A23DCD3.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G.uasset'
+[2025.03.11-14.11.59:694][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+[2025.03.11-14.11.59:694][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/CKH5RYZ0ZR9KTVY5K32RCYD5DA32384FEE892197D426B39124A1C8.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY.uasset'
+[2025.03.11-14.11.59:701][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+[2025.03.11-14.11.59:701][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/R0G3BN5XGD6WGH52J72Q902B185BB34CBDE40941FE42B25D2653C8.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90.uasset'
+[2025.03.11-14.11.59:707][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+[2025.03.11-14.11.59:708][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/T6K63GS54OD48GIP4AVZO78048CA604ED58A93A0D981BDD127E373.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7.uasset'
+[2025.03.11-14.11.59:714][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+[2025.03.11-14.11.59:714][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/70D8PQ7OROATLX8T345MDX69D77E244B833A6C175330A398EEF4C6.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX.uasset'
+[2025.03.11-14.11.59:722][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+[2025.03.11-14.11.59:722][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/U6BUG1QRAYYVDV4PDSDUMM0A23CED949C6696D3D3353B7BF760B2D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM.uasset'
+[2025.03.11-14.11.59:728][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+[2025.03.11-14.11.59:728][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/K9VG19F1GEWZ7KOSERPA6I7E9C3D8F4BF7CFAB9E1DFCB9FA0E7D51.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I.uasset'
+[2025.03.11-14.11.59:734][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+[2025.03.11-14.11.59:734][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/BIGXLLSVFWFDN8GVLXTIJHA1F5C3C94184820A9E654AB6AE80ADE6.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH.uasset'
+[2025.03.11-14.11.59:740][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+[2025.03.11-14.11.59:740][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/T3SRO2C63VCND6PXTEV1CH30FFCF9B408D4C225E63BF900E441D9A.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH.uasset'
+[2025.03.11-14.11.59:746][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+[2025.03.11-14.11.59:746][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/BOQSPAK8DZHLQ92PQS2LAKA8D726864277BEF5EA5623B13F2CC587.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK.uasset'
+[2025.03.11-14.11.59:751][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+[2025.03.11-14.11.59:751][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/I1YAF3YM63PH3IRC6INAMT1C371ADB4B2D7FB0EA75F7BDF4AD3B43.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT.uasset'
+[2025.03.11-14.11.59:758][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+[2025.03.11-14.11.59:758][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/TLK74XQSIYIZ39BEJZZGS833E73B10466BFB72DEDF28A7B3F8B6B5.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8.uasset'
+[2025.03.11-14.11.59:764][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+[2025.03.11-14.11.59:764][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/JK1IL916YYFEUWC238D8BQE9FB2A8D40CECDDA8177EE99C5B40BD9.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ.uasset'
+[2025.03.11-14.11.59:770][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+[2025.03.11-14.11.59:770][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/WEBCPTS9FFUMD5IBGOM3UG23D21EE14C70018B891F7B9E751AF3CF.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG.uasset'
+[2025.03.11-14.11.59:775][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+[2025.03.11-14.11.59:775][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/VCTEVXRXLNOW5ZJ8J61MADF023FE4142427F9D3E0919B0BC32A545.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD.uasset'
+[2025.03.11-14.11.59:781][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+[2025.03.11-14.11.59:781][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/A1G10A9L4Y0YOIY6Y8GZIW8D75E0BD4FEA6F0FD46F71A9B158E048.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW.uasset'
+[2025.03.11-14.11.59:786][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+[2025.03.11-14.11.59:787][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/ZANREFWHM69H8EXQ1GE2WK3EF3C909413623FEF7F545B1A00DD817.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK.uasset'
+[2025.03.11-14.11.59:792][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+[2025.03.11-14.11.59:792][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/XDAM7DWXRXOLL0SMQT10VNE3FE7A3847B8BF178618838E1088E654.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN.uasset'
+[2025.03.11-14.11.59:799][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+[2025.03.11-14.11.59:799][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/5S8ZIUHF416MXIWGA05B8X6077D4E146CB13BEB8C790BDB703F273.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X.uasset'
+[2025.03.11-14.11.59:804][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+[2025.03.11-14.11.59:805][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/JAM3O7SXZW7J01CAEI8GN8201B7FCB476EE61777BF069102869FBB.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8.uasset'
+[2025.03.11-14.11.59:810][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+[2025.03.11-14.11.59:810][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/LUBSUPMBCORQY4BX4SUI8DF839752D4478BE54323BEEA5FC5CD23D.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D.uasset'
+[2025.03.11-14.11.59:815][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+[2025.03.11-14.11.59:815][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/YUH16E8Q3OFF2UFEOECX6J9942489D4733F9A5B2734592CC204235.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J.uasset'
+[2025.03.11-14.11.59:821][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+[2025.03.11-14.11.59:821][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/BQ4QD8DM1FV5621690L48ZAD97FF6A4E3732FA0AFD77A1A83004FD.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z.uasset'
+[2025.03.11-14.11.59:827][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+[2025.03.11-14.11.59:827][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/E3N9C35NWL586INQHB9VL541F6827D436B3DA33B6F5EAF0F81D75B.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5.uasset'
+[2025.03.11-14.11.59:833][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+[2025.03.11-14.11.59:833][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/H3EUOGV4ND1YS97V1OH50D3442F1E8496116A432844A9DAC2E2775.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D.uasset'
+[2025.03.11-14.11.59:839][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+[2025.03.11-14.11.59:839][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/LBYD52OUWDVKRW2LR5N40R558DE99E4FCCCAC95D7A4DBE05A25460.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R.uasset'
+[2025.03.11-14.11.59:845][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+[2025.03.11-14.11.59:845][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/91MV17CEV5O0TI24BDEBY10A51197C4136A76D495BF59E0EAEA503.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1.uasset'
+[2025.03.11-14.11.59:851][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+[2025.03.11-14.11.59:851][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/AYG5JX9GFZ46UZ4D89AS6V3A25A91C4C3D78514047F6AE78D040FA.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V.uasset'
+[2025.03.11-14.11.59:856][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+[2025.03.11-14.11.59:856][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/OL1EVUAEZLBC9MZGWLQTGR5D2848F640CA31457D17C5963B8A7435.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR.uasset'
+[2025.03.11-14.11.59:864][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+[2025.03.11-14.11.59:864][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/7QOFK6FYQLTOX424QPFWQM60B6FEA844A488F43E4D249A02540D72.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM.uasset'
+[2025.03.11-14.11.59:869][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+[2025.03.11-14.11.59:869][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/KF97WTUCVEEXW34TJN9TX29604B1A94FED636E964DE1A8B0D15CA3.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2.uasset'
+[2025.03.11-14.11.59:875][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+[2025.03.11-14.11.59:875][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/O5GF0WUY9GTB5G1RJCRG7S73AEBA93413A16604665689C96794FCF.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S.uasset'
+[2025.03.11-14.11.59:881][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+[2025.03.11-14.11.59:881][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/OYJBGVX6BTQ1NB8STSMJKMA4C02B2648B4A114E5528588EBA11C13.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM.uasset'
+[2025.03.11-14.11.59:886][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+[2025.03.11-14.11.59:886][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/VQZZAJSMUJW42R85QD9NH3542467934244EA198F42F0AC11E47810.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3.uasset'
+[2025.03.11-14.11.59:891][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+[2025.03.11-14.11.59:891][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/7PB37ID42LVSJXRXYR6ZEPF6339F264BB02006B1F745A2D180907F.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP.uasset'
+[2025.03.11-14.11.59:897][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+[2025.03.11-14.11.59:897][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/0Q31YSJCQQFF2U7PF0BX28FFF80B9E4F21D871015F23A0D3E34CBA.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28.uasset'
+[2025.03.11-14.11.59:902][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+[2025.03.11-14.11.59:902][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/AZSCYV28PUELWHGWGMOUUW7A62E9C240BA51D217283EB1CFA89A21.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW.uasset'
+[2025.03.11-14.11.59:907][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+[2025.03.11-14.11.59:908][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/IQVOSVV1CJEJSNAYJGESY7ADF42A6D41061AF0BA37DE887E46835A.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7.uasset'
+[2025.03.11-14.11.59:913][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+[2025.03.11-14.11.59:913][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/46RJH0JG81KFL2EHXZEPMT54AB62AA416FB07B5769CCB416751884.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT.uasset'
+[2025.03.11-14.11.59:918][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+[2025.03.11-14.11.59:918][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/9BCOS91D9LWWYTKPAXD2LNB3B9298A4D9125E5F87116AE63D39845.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN.uasset'
+[2025.03.11-14.11.59:924][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+[2025.03.11-14.11.59:924][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/9BJPPHQETRDHJ6POTKQFCX4ECD64BD49B52A9799E84FB479772EC5.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX.uasset'
+[2025.03.11-14.11.59:929][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+[2025.03.11-14.11.59:929][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/G3E3331RDRVC7PRWZHULLK8D91F882465B2C32BC316E82BB93CEC0.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK.uasset'
+[2025.03.11-14.11.59:934][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+[2025.03.11-14.11.59:935][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/YYX2A6F6SXT4UCL62ZSE1C429A08AB4F26BA2711C97A8B7F0F58B2.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C.uasset'
+[2025.03.11-14.11.59:940][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+[2025.03.11-14.11.59:940][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/LYYUJ74G36R96SWX1Y48Z24E1511384EECE0E8AE967FAA2BA40EEB.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2.uasset'
+[2025.03.11-14.11.59:946][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+[2025.03.11-14.11.59:946][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/ITT14I7RIPFAWOLW027WEZCAB0CA4D44E4775525541ABA289DF307.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ.uasset'
+[2025.03.11-14.11.59:951][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+[2025.03.11-14.11.59:952][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/IW2N8XM75607JCJRYEL5P12822C4D04B093747305E509D01BAB14A.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1.uasset'
+[2025.03.11-14.11.59:958][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+[2025.03.11-14.11.59:958][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/VK823AP9UC5PC8XHHP2U6QB699CC91484397D71831BD8EE9625AB8.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q.uasset'
+[2025.03.11-14.11.59:964][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+[2025.03.11-14.11.59:964][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/7AIFWLMZM6FNZ32SK032TYF09A57E84BEF9CC5265E85B0C6184B70.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY.uasset'
+[2025.03.11-14.11.59:970][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+[2025.03.11-14.11.59:970][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/ILDZATAJAWX5WLB33M7FQSD62465994763E4E440446CBD4221C10E.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS.uasset'
+[2025.03.11-14.11.59:976][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+[2025.03.11-14.11.59:976][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/Z0TCOW85SPIL4WJ6FSQCO442BFD2A64FC45585B332E4B8EF5010F6.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4.uasset'
+[2025.03.11-14.11.59:981][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+[2025.03.11-14.11.59:981][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/H4AXV0G023QP28PQTAOF1OAF1D55C54746E151926AA5AA51E5E0BD.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O.uasset'
+[2025.03.11-14.11.59:987][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+[2025.03.11-14.11.59:987][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/IYAAZJT51R8CKODGGF8YC222BD406740C1FB59E62EEBB21354860C.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2.uasset'
+[2025.03.11-14.11.59:992][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+[2025.03.11-14.11.59:992][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/F6F3RD6PEOLM8CV7YNVMYS739157E3498AB8AD55DF8B9BCC6AD1D1.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS.uasset'
+[2025.03.11-14.11.59:997][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+[2025.03.11-14.11.59:997][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/D5AP58IHU71AU0M2JNWETAA1A2A3D9484DF6FFA6E880909A568627.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA.uasset'
+[2025.03.11-14.12.00:003][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+[2025.03.11-14.12.00:003][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/7XH5KOM6VGSWXXG4WJEEWJ02073F074E484F5FCB0742A534C63606.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ.uasset'
+[2025.03.11-14.12.00:008][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+[2025.03.11-14.12.00:008][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/RLEWE2Y9S5ZDO8F6ELEJ0068DEE41E46F14971E1F51E88F9A49AE1.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00.uasset'
+[2025.03.11-14.12.00:015][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+[2025.03.11-14.12.00:015][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/8JJDOIVMLQYT8VXINSJM0RC7A12FD64ADF2CA74AAC568F08E3AF30.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R.uasset'
+[2025.03.11-14.12.00:020][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+[2025.03.11-14.12.00:020][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/ZWSO730QU54SJNCOZJ3TA1E9A918B94245F88D6E0D8987D8A20189.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1.uasset'
+[2025.03.11-14.12.00:027][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+[2025.03.11-14.12.00:027][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/0F53A5EQLRS5JNU3C82R84BC95CE2B4CB5B47DEA3CEEBB0B975001.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset'
+[2025.03.11-14.12.00:033][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+[2025.03.11-14.12.00:033][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/1ETCZL36T8LOULTG5FSKJ8E4BAD30F40017776BDBE49810AB04792.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset'
+[2025.03.11-14.12.00:038][664]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2025.03.11-14.12.00:038][664]LogSavePackage: Moving '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Saved/I5IPTC503UZ5480FO15FQ7B3F1CE40400A89FCB17BE29C852650CF.tmp' to '../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset'
+[2025.03.11-14.12.00:043][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.63 sec (total: 2.93 sec)
+[2025.03.11-14.12.00:051][664]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+/Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+/Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+/Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+/Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+/Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+/Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+/Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+/Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+/Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+/Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+/Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+/Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+/Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+/Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+/Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+/Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+/Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+/Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+/Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+/Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+/Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+/Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+/Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+/Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+/Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+/Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+/Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+/Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+/Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+/Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+/Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+/Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+/Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+/Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+/Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+/Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+/Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+/Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+/Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+/Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+/Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+/Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+/Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+/Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+/Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+/Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+/Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+/Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+/Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+/Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+/Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+/Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+/Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+/Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+/Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+/Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+/Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+/Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+/Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+/Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+/Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+/Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+/Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+/Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+/Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+/Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+/Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+/Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+/Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+/Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+/Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+/Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+/Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+/Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+/Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+/Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+/Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+/Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+/Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+/Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+/Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+/Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+/Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+/Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+/Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+/Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+/Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+/Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+/Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+/Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+/Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+/Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+/Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+/Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+/Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+/Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+/Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+/Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+/Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+/Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+/Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+/Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+/Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+/Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+/Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+/Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+/Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+/Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+/Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+/Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+/Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+/Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+/Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+/Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+/Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+/Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+/Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+/Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+/Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+/Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+/Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+/Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+/Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+/Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+/Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+/Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+/Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+/Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+/Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+/Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+/Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+/Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+/Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+/Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+/Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2025.03.11-14.12.00:088][664]LogFileHelpers: Saving map 'NewMap' took 2.673
+[2025.03.11-14.12.00:090][664]Cmd: MAP LOAD FILE="../../../../../../Users/angyo/Documents/GitHub/Echoes-of-the-Rift/EchoesOfTheRift/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.11-14.12.00:174][664]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.12.00:183][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.12.00:183][664]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2025.03.11-14.12.00:254][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.11-14.12.00:398][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.11-14.12.00:400][664]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.11-14.12.00:418][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2025.03.11-14.12.00:419][664]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.03.11-14.12.00:448][664]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.11-14.12.00:448][664]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.11-14.12.00:449][664]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.11-14.12.00:484][664]LogTexture: Display: Building textures: /Game/NewMap.NewMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2025.03.11-14.12.00:731][664]LogWorldPartition: Display: WorldPartition initialize took 283.457 ms (total: 674.830 ms)
+[2025.03.11-14.12.01:448][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.11-14.12.01:489][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.11-14.12.01:494][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.11-14.12.01:498][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,106ms to complete.
+[2025.03.11-14.12.01:618][664]LogContentValidation: Display: Starting to validate 146 assets
+[2025.03.11-14.12.01:618][664]LogContentValidation: Enabled validators:
+[2025.03.11-14.12.01:618][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.11-14.12.01:618][664]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.11-14.12.01:618][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.11-14.12.01:618][664]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.11-14.12.01:618][664]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.11-14.12.01:618][664]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.11-14.12.01:620][664]AssetCheck: /Game/NewMap Validating asset
+[2025.03.11-14.12.01:620][664]AssetCheck: /Game/NewMap_HLOD0_Instancing Validating asset
+[2025.03.11-14.15.14:066][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.11-14.15.14:092][421]LogStall: Shutdown...
+[2025.03.11-14.15.14:093][421]LogStall: Shutdown complete.
+[2025.03.11-14.15.14:133][421]LogSlate: Window 'EchoesOfTheRift - Unreal Editor' being destroyed
+[2025.03.11-14.15.14:135][421]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2025.03.11-14.15.14:511][421]Cmd: QUIT_EDITOR
+[2025.03.11-14.15.14:512][421]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.11-14.15.14:522][422]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.11-14.15.14:524][422]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.11-14.15.14:525][422]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.11-14.15.14:539][422]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:540][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:540][422]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2025.03.11-14.15.14:570][422]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.11-14.15.14:580][422]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.11-14.15.14:591][422]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:592][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:594][422]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:596][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:597][422]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:597][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:597][422]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:597][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:598][422]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:598][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:599][422]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:599][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:599][422]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.11-14.15.14:599][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.11-14.15.14:612][422]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.11-14.15.14:617][422]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.11-14.15.14:617][422]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.11-14.15.14:617][422]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.11-14.15.14:627][422]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.11-14.15.14:627][422]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.11-14.15.14:627][422]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2025.03.11-14.15.14:628][422]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.11-14.15.14:632][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.11-14.15.14:643][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.11-14.15.14:665][422]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.11-14.15.14:665][422]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.11-14.15.14:672][422]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.11-14.15.14:673][422]LogExit: Preparing to exit.
+[2025.03.11-14.15.14:781][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.11-14.15.15:942][422]LogEditorDataStorage: Deinitializing
+[2025.03.11-14.15.16:414][422]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.11-14.15.16:533][422]LogExit: Editor shut down
+[2025.03.11-14.15.16:546][422]LogExit: Transaction tracking system shut down
+[2025.03.11-14.15.17:253][422]LogExit: Object subsystem successfully closed.
+[2025.03.11-14.15.17:343][422]LogShaderCompilers: Display: Shaders left to compile 0
