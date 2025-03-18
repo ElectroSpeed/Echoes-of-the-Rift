@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EchoesOfTheRift",
+			"Path": "..\\Source\\EchoesOfTheRift.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EchoesOfTheRiftEditor",
+			"Path": "..\\Source\\EchoesOfTheRiftEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

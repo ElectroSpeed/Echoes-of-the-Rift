@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\source\\echoesoftherift\\portalsword.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\x64\\echoesoftherifteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\echoesoftherift\\definitions.echoesoftherift.h",
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\source\\echoesoftherift\\portalsword.h",
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\unrealeditor\\inc\\echoesoftherift\\uht\\portalsword.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
