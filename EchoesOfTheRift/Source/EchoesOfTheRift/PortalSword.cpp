@@ -33,7 +33,7 @@ void APortalSword::PlacePortal(int ZoneNumber)
     FVector SpawnLocation = PlayerPawn->GetActorLocation() + PlayerPawn->GetActorForwardVector() * 200.0f;
     FRotator SpawnRotation = PlayerPawn->GetActorRotation() + FRotator(0, 180, 0);
     
-    FVector SecondPortalLocation = SpawnLocation + FVector(1000.0f * ZoneNumber, 0, 0);
+    FVector SecondPortalLocation = SpawnLocation + FVector(-49900.0f * ZoneNumber, 0, 0);
     
     if (!FirstPortal)
     {
@@ -54,6 +54,6 @@ void APortalSword::PlacePortal(int ZoneNumber)
     else
     {
         SecondPortal->SetActorLocation(SecondPortalLocation);
-        SecondPortal->SetActorRotation(SpawnRotation);
+        SecondPortal->SetActorRotation(SpawnRotation + FRotator(0, 180, 0));
     }
 }

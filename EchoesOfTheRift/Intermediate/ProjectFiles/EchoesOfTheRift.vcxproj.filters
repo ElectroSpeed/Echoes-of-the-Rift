@@ -11,6 +11,7 @@
     <None Include="..\..\Source\EchoesOfTheRiftEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +37,12 @@
       <Filter>Source\EchoesOfTheRift</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\EchoesOfTheRift\EchoesOfTheRift.h">
+      <Filter>Source\EchoesOfTheRift</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheRift\PlateformManager.cpp">
+      <Filter>Source\EchoesOfTheRift</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EchoesOfTheRift\PlateformManager.h">
       <Filter>Source\EchoesOfTheRift</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\EchoesOfTheRift\PortalSword.cpp">

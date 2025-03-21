@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\unrealeditor\\inc\\echoesoftherift\\uht\\plateformmanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\x64\\echoesoftherifteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\echoesoftherift\\definitions.echoesoftherift.h",
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\source\\echoesoftherift\\plateformmanager.h",
+            "c:\\users\\angyo\\documents\\github\\echoes-of-the-rift\\echoesoftherift\\intermediate\\build\\win64\\unrealeditor\\inc\\echoesoftherift\\uht\\plateformmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

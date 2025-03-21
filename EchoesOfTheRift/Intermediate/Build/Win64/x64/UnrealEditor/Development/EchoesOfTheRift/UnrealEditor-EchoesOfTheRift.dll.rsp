@@ -38,10 +38,12 @@
 /NOIMPLIB
 "C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\EchoesOfTheRiftEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
 "C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\EchoesOfTheRift.init.gen.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\PlateformManager.gen.cpp.obj"
 "C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\PortalSword.gen.cpp.obj"
 "C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\EchoesOfTheRift.cpp.obj"
-"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\PortalSword.cpp.obj"
 "C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\PerModuleInline.gen.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\PlateformManager.cpp.obj"
+"C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\PortalSword.cpp.obj"
 "C:\Users\angyo\Documents\GitHub\Echoes-of-the-Rift\EchoesOfTheRift\Intermediate\Build\Win64\x64\UnrealEditor\Development\EchoesOfTheRift\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"

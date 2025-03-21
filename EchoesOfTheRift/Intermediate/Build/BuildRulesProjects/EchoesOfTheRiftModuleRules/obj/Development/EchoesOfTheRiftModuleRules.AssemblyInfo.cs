@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoesOfTheRiftModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6b3de32444e5752e56132228e07a2a3677de99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88b9f20ecce5692d5899853a86da23626285626d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoesOfTheRiftModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoesOfTheRiftModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
